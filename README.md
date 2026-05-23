@@ -58,7 +58,7 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/196219234338747
 
 ### AI Globe
 
-This experiment explores a visual way to represent AI as a rotating globe of shifting letters and colors, turning generated information into a living search surface.
+This experiment explores a visualization of AI.
 
 [Code](AI%20globe) | [Demo](https://x.com/mikelikesdesign/status/1984780016761344155)
 
