@@ -62,6 +62,8 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/196219234338747
 
 This experiment explores a visualization of AI.
 
+![AI Globe](AI%20globe/AI%20globe.gif)
+
 [Code](AI%20globe) | [Demo](https://x.com/mikelikesdesign/status/1984780016761344155)
 
 ### Content Ideas
