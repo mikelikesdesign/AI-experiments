@@ -49,3 +49,11 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/199419267112069
 Pinch Gestures remixes Pinch Text by using the front-facing camera to detect pinch gestures. It explores how AI can reshape writing to match the level of detail someone wants in the moment, moving text between a basic overview, detailed analysis, and advanced analysis through gesture detection.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1962192343387472129)
+
+### Content Ideas
+
+Select any word or phrase, tap Rephrase, then drag the quadrant control to adjust the AI toward simpler, casual, formal, or advanced content ideas.
+
+In this demo, the word "Prototyping" is highlighted.
+
+[Code](content%20ideas) | [Demo](https://x.com/mikelikesdesign/status/2048578683447988621)
