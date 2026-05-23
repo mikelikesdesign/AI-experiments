@@ -20,8 +20,6 @@ This experiment explores how AI can provide small nudges of encouragement to hel
 
 [Code](reading%20tracker) | [Demo](https://x.com/mikelikesdesign/status/1861940569049800989)
 
-<video src="demos/reading%20tracker.mp4" controls width="100%"></video>
-
 ### Pinch Text
 
 This experiment explores how AI can reshape writing to match the level of detail someone wants in the moment. A pinch gesture moves the text between a basic overview, detailed analysis, and advanced analysis, turning reading depth into a direct tactile control.
@@ -34,15 +32,11 @@ This experiment explores how AI can let the user rewrite a piece of text one wor
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1938206518232682763)
 
-<video src="demos/word%20tap.mov" controls width="100%"></video>
-
 ### Tap Explore
 
 This experiment lets the user hold to zoom in a space like interface while AI generates a topic in the background.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1936041378364166588)
-
-<video src="demos/tap%20explore.mov" controls width="100%"></video>
 
 ### AI Drag Interaction
 
@@ -56,8 +50,6 @@ This experiment offers a quick way to take a photo to send to the AI as context.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1994192671120691542)
 
-<video src="demos/quick%20camera.MOV" controls width="100%"></video>
-
 ### Pinch Gestures
 
 This experiment remixes Pinch Text by using the front-facing camera to detect pinch gestures. It explores how AI can reshape writing to match the level of detail someone wants in the moment, moving text between a basic overview, detailed analysis, and advanced analysis through gesture detection.
@@ -69,8 +61,6 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/196219234338747
 This experiment explores a visualization of AI.
 
 [Code](AI%20globe) | [Demo](https://x.com/mikelikesdesign/status/1984780016761344155)
-
-<video src="demos/AI%20globe.MOV" controls width="100%"></video>
 
 ### Content Ideas
 
@@ -108,20 +98,14 @@ This experiment creates a reading view based on AI-generated content to help the
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2011657345529676124)
 
-<video src="demos/fast%20reading.MOV" controls width="100%"></video>
-
 ### Chat Expressions
 
 This experiment watches the user's reaction while they read an answer. If the user looks confused, the AI displays a simpler version. If the user seems interested or pleased, it offers to show more details.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2010564041542860801)
 
-<video src="demos/chat%20expressions.MOV" controls width="100%"></video>
-
 ### AI-LLM
 
 This experiment explores a different way for the user to change the LLM the chat is using through a 3D tape interaction.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2050795695876243956)
-
-<video src="demos/AI-LLM.mov" controls width="100%"></video>
