@@ -10,43 +10,43 @@ If you would like the version that runs on an LLM, reach out to me on X: [@mikel
 
 ### Reading Tracker
 
-Reading Tracker explores how AI can provide small nudges of encouragement to help someone finish reading. As the reader moves through an article, the experience tracks progress and responds with supportive status updates, ending with a celebratory moment when they complete the post.
+This experiment explores how AI can provide small nudges of encouragement to help someone finish reading. As the reader moves through an article, the experience tracks progress and responds with supportive status updates, ending with a celebratory moment when they complete the post.
 
 [Code](reading%20tracker) | [Demo](https://x.com/mikelikesdesign/status/1861940569049800989)
 
 ### Pinch Text
 
-Pinch Text explores how AI can reshape writing to match the level of detail someone wants in the moment. A pinch gesture moves the text between a basic overview, detailed analysis, and advanced analysis, turning reading depth into a direct tactile control.
+This experiment explores how AI can reshape writing to match the level of detail someone wants in the moment. A pinch gesture moves the text between a basic overview, detailed analysis, and advanced analysis, turning reading depth into a direct tactile control.
 
 [Code](pinch-text) | [Demo](https://x.com/mikelikesdesign/status/1885506922302013919)
 
 ### Word Tap
 
-Word Tap explores how AI can let the user rewrite a piece of text one word at a time. The user can press and hold any word so the rest of the text fades back while AI suggests synonyms, then tap one to swap it in.
+This experiment explores how AI can let the user rewrite a piece of text one word at a time. The user can press and hold any word so the rest of the text fades back while AI suggests synonyms, then tap one to swap it in.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1938206518232682763)
 
 ### Tap Explore
 
-Tap Explore is an experiment where the user holds to zoom in a space-like interface while AI generates a topic in the background.
+This experiment lets the user hold to zoom in a space-like interface while AI generates a topic in the background.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1936041378364166588)
 
 ### AI Drag Interaction
 
-AI Drag Interaction lets the user type a word or phrase to learn about it, then creates a node shape based on that word or phrase so the user can explore relevant topics.
+This experiment lets the user type a word or phrase to learn about it, then creates a node shape based on that word or phrase so the user can explore relevant topics.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1958629089910431854)
 
 ### Quick Camera
 
-Quick Camera is a quick way to take a photo to send to the AI as context.
+This experiment offers a quick way to take a photo to send to the AI as context.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1994192671120691542)
 
 ### Pinch Gestures
 
-Pinch Gestures remixes Pinch Text by using the front-facing camera to detect pinch gestures. It explores how AI can reshape writing to match the level of detail someone wants in the moment, moving text between a basic overview, detailed analysis, and advanced analysis through gesture detection.
+This experiment remixes Pinch Text by using the front-facing camera to detect pinch gestures. It explores how AI can reshape writing to match the level of detail someone wants in the moment, moving text between a basic overview, detailed analysis, and advanced analysis through gesture detection.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1962192343387472129)
 
@@ -60,7 +60,7 @@ In this demo, the word "Prototyping" is highlighted.
 
 ### Pinch Prompts
 
-Pinch Prompts explores a chat history where pinching reveals a prompt navigator, letting the user skim previous prompts and jump back to the original exchange.
+This experiment explores a chat history where pinching reveals a prompt navigator, letting the user skim previous prompts and jump back to the original exchange.
 
 Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspiration: [post](https://x.com/raunofreiberg/status/2031794945896378820).
 
@@ -68,13 +68,13 @@ Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspir
 
 ### AI Content Drag
 
-AI Content Drag lets the user scroll down while reading to choose between a simplified version or learning more.
+This experiment lets the user scroll down while reading to choose between a simplified version or learning more.
 
 [Code](AI%20content%20drag) | [Demo](https://x.com/mikelikesdesign/status/2032980860782391504)
 
 ### Pinch Experiment
 
-Pinch Experiment explores pinching an article into an AI-generated summary. The page folds down as the user pinches, moves through a fast space-like loading state, then opens into a concise overview.
+This experiment explores pinching an article into an AI-generated summary. The page folds down as the user pinches, moves through a fast space-like loading state, then opens into a concise overview.
 
 Shoutout to Arc Search's pinch to summarize feature for some of the inspiration.
 
@@ -88,12 +88,12 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/201165734552967
 
 ### Chat Expressions
 
-Chat Expressions watches the user's reaction while they read an answer. If the user looks confused, the AI displays a simpler version. If the user seems interested or pleased, it offers to show more details.
+This experiment watches the user's reaction while they read an answer. If the user looks confused, the AI displays a simpler version. If the user seems interested or pleased, it offers to show more details.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2010564041542860801)
 
 ### AI-LLM
 
-AI-LLM explores a different way for the user to change the LLM a chat is using through a 3D tape interaction.
+This experiment explores a different way for the user to change the LLM the chat is using through a 3D tape interaction.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2050795695876243956)
