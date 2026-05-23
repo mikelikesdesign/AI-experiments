@@ -22,19 +22,19 @@ Pinch Text explores how AI can reshape writing to match the level of detail some
 
 ### Word Tap
 
-Word Tap explores how AI can let you rewrite a piece of text one word at a time. Press and hold any word and the rest of the text fades back while AI suggests synonyms. Tap one to swap it in.
+Word Tap explores how AI can let the user rewrite a piece of text one word at a time. The user can press and hold any word so the rest of the text fades back while AI suggests synonyms, then tap one to swap it in.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1938206518232682763)
 
 ### Tap Explore
 
-Tap Explore is an experiment where you hold to zoom in a space-like interface while AI generates a topic in the background.
+Tap Explore is an experiment where the user holds to zoom in a space-like interface while AI generates a topic in the background.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1936041378364166588)
 
 ### AI Drag Interaction
 
-AI Drag Interaction lets you type a word or phrase to learn about it, then creates a node shape based on that word or phrase so you can explore relevant topics.
+AI Drag Interaction lets the user type a word or phrase to learn about it, then creates a node shape based on that word or phrase so the user can explore relevant topics.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1958629089910431854)
 
@@ -60,7 +60,7 @@ In this demo, the word "Prototyping" is highlighted.
 
 ### Pinch Prompts
 
-Pinch Prompts explores a chat history where pinching reveals a prompt navigator, letting you skim previous prompts and jump back to the original exchange.
+Pinch Prompts explores a chat history where pinching reveals a prompt navigator, letting the user skim previous prompts and jump back to the original exchange.
 
 Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspiration: [post](https://x.com/raunofreiberg/status/2031794945896378820).
 
@@ -68,13 +68,13 @@ Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspir
 
 ### AI Content Drag
 
-AI Content Drag lets you scroll down while reading to choose between a simplified version or learning more.
+AI Content Drag lets the user scroll down while reading to choose between a simplified version or learning more.
 
 [Code](AI%20content%20drag) | [Demo](https://x.com/mikelikesdesign/status/2032980860782391504)
 
 ### Pinch Experiment
 
-Pinch Experiment explores pinching an article into an AI-generated summary. The page folds down as you pinch, moves through a fast space-like loading state, then opens into a concise overview.
+Pinch Experiment explores pinching an article into an AI-generated summary. The page folds down as the user pinches, moves through a fast space-like loading state, then opens into a concise overview.
 
 Shoutout to Arc Search's pinch to summarize feature for some of the inspiration.
 
@@ -82,6 +82,12 @@ Shoutout to Arc Search's pinch to summarize feature for some of the inspiration.
 
 ### AI Fast Reading
 
-AI Fast Reading creates a reading view based on AI-generated content to help the user read faster.
+This experiment creates a reading view based on AI-generated content to help the user read faster.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2011657345529676124)
+
+### Chat Expressions
+
+Chat Expressions watches the user's reaction while they read an answer. If the user looks confused, the AI displays a simpler version. If the user seems interested or pleased, it offers to show more details.
+
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2010564041542860801)
