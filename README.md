@@ -57,3 +57,11 @@ Select any word or phrase, tap Rephrase, then drag the quadrant control to adjus
 In this demo, the word "Prototyping" is highlighted.
 
 [Code](content%20ideas) | [Demo](https://x.com/mikelikesdesign/status/2048578683447988621)
+
+### Pinch Prompts
+
+Pinch Prompts explores a chat history where pinching reveals a prompt navigator, letting you skim previous prompts and jump back to the original exchange.
+
+Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspiration: [post](https://x.com/raunofreiberg/status/2031794945896378820).
+
+[Code](pinch%20prompts) | [Demo](https://x.com/mikelikesdesign/status/2045278395291087012)
