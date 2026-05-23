@@ -91,3 +91,9 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/201165734552967
 Chat Expressions watches the user's reaction while they read an answer. If the user looks confused, the AI displays a simpler version. If the user seems interested or pleased, it offers to show more details.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2010564041542860801)
+
+### AI-LLM
+
+AI-LLM explores a different way for the user to change the LLM a chat is using through a 3D tape interaction.
+
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2050795695876243956)
