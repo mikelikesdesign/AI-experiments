@@ -2,7 +2,7 @@
 
 # AI Experiments
 
-I will be sharing my ideas on experiments on ways to utilize AI in this repo.
+I will be sharing my experiments on ways to utilize AI to this repo.
 
 These experiments have been updated to apps that work without an LLM API key so you can explore the ideas directly to utilize in your work.
 
