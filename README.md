@@ -65,3 +65,9 @@ Pinch Prompts explores a chat history where pinching reveals a prompt navigator,
 Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspiration: [post](https://x.com/raunofreiberg/status/2031794945896378820).
 
 [Code](pinch%20prompts) | [Demo](https://x.com/mikelikesdesign/status/2045278395291087012)
+
+### AI Content Drag
+
+AI Content Drag lets you scroll down while reading to choose between a simplified version or learning more.
+
+[Code](AI%20content%20drag) | [Demo](https://x.com/mikelikesdesign/status/2032980860782391504)
