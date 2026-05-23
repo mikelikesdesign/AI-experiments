@@ -56,6 +56,12 @@ This experiment remixes Pinch Text by using the front-facing camera to detect pi
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1962192343387472129)
 
+### AI Globe
+
+This experiment explores a visual way to represent AI as a rotating globe of shifting letters and colors, turning generated information into a living search surface.
+
+[Code](AI%20globe) | [Demo](https://x.com/mikelikesdesign/status/1984780016761344155)
+
 ### Content Ideas
 
 Select any word or phrase, tap Rephrase, then drag the quadrant control to adjust the AI toward simpler, casual, formal, or advanced content ideas.
