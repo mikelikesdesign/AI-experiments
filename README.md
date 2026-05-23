@@ -32,7 +32,7 @@ This experiment explores how AI can reshape writing to match the level of detail
 
 This experiment explores how AI can let the user rewrite a piece of text one word at a time. The user can press and hold any word so the rest of the text fades back while AI suggests synonyms, then tap one to swap it in.
 
-Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1938206518232682763)
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1835462175231795377)
 
 ### Tap Explore
 
