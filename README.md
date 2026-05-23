@@ -8,6 +8,12 @@ If you would like the version that runs on an LLM, reach out to me on X: [@mikel
 
 ## Experiments
 
+### Word Slider
+
+This experiment explores how AI can reshape a message across tone and detail with a simple slider. Dragging the control between concise, detailed, professional, and fun regions rewrites the text to match the selected style.
+
+[Code](word%20slider) | [Demo](https://x.com/mikelikesdesign/status/1835462175231795377/video/1)
+
 ### Reading Tracker
 
 This experiment explores how AI can provide small nudges of encouragement to help someone finish reading. As the reader moves through an article, the experience tracks progress and responds with supportive status updates, ending with a celebratory moment when they complete the post.
