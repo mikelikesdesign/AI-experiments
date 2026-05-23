@@ -1,6 +1,6 @@
 # AI Experiments
 
-I will be sharing my ideas on how to utilize AI in this repo.
+I will be sharing my ideas on experiments on ways to utilize AI in this repo.
 
 These experiments have been converted to apps that work without an LLM API key so you can explore the ideas directly to utilize in your work.
 
@@ -25,3 +25,27 @@ Pinch Text explores how AI can reshape writing to match the level of detail some
 Word Tap explores how AI can let you rewrite a piece of text one word at a time. Press and hold any word and the rest of the text fades back while AI suggests synonyms. Tap one to swap it in.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1938206518232682763)
+
+### Tap Explore
+
+Tap Explore is an experiment where you hold to zoom in a space-like interface while AI generates a topic in the background.
+
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1936041378364166588)
+
+### AI Drag Interaction
+
+AI Drag Interaction lets you type a word or phrase to learn about it, then creates a node shape based on that word or phrase so you can explore relevant topics.
+
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1958629089910431854)
+
+### Quick Camera
+
+Quick Camera is a quick way to take a photo to send to the AI as context.
+
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1994192671120691542)
+
+### Pinch Gestures
+
+Pinch Gestures remixes Pinch Text by using the front-facing camera to detect pinch gestures. It explores how AI can reshape writing to match the level of detail someone wants in the moment, moving text between a basic overview, detailed analysis, and advanced analysis through gesture detection.
+
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1962192343387472129)
