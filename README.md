@@ -66,7 +66,7 @@ This experiment explores a visualization of AI.
 
 Select any word or phrase, tap Rephrase, then drag the quadrant control to adjust the AI toward simpler, casual, formal, or advanced content ideas.
 
-In this demo, the word "Prototyping" is highlighted.
+For this demo, highlight the word "Prototyping" to see how this interaction works.
 
 [Code](content%20ideas) | [Demo](https://x.com/mikelikesdesign/status/2048578683447988621)
 
