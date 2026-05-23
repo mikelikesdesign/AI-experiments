@@ -1,3 +1,5 @@
+![AI Experiments](experiments.gif)
+
 # AI Experiments
 
 I will be sharing my ideas on experiments on ways to utilize AI in this repo.
