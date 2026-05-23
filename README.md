@@ -34,7 +34,7 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/193820651823268
 
 ### Tap Explore
 
-This experiment lets the user hold to zoom in a space-like interface while AI generates a topic in the background.
+This experiment lets the user hold to zoom in a space like interface while AI generates a topic in the background.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1936041378364166588)
 
