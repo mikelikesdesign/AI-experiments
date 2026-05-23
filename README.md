@@ -2,7 +2,7 @@
 
 I will be sharing my ideas on experiments on ways to utilize AI in this repo.
 
-These experiments have been converted to apps that work without an LLM API key so you can explore the ideas directly to utilize in your work.
+These experiments have been updated to apps that work without an LLM API key so you can explore the ideas directly to utilize in your work.
 
 If you would like the version that runs on an LLM, reach out to me on X: [@mikelikesdesign](https://x.com/mikelikesdesign), and I can work on a version where you upload your own API key.
 
