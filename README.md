@@ -112,4 +112,6 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/201056404154286
 
 This experiment explores a different way for the user to change the LLM the chat is using through a 3D tape interaction.
 
+![AI-LLM](AI-LLM/AI-LLM.gif)
+
 [Code](AI-LLM) | [Demo](https://x.com/mikelikesdesign/status/2050795695876243956)
