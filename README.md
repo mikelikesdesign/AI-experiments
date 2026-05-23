@@ -71,3 +71,11 @@ Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspir
 AI Content Drag lets you scroll down while reading to choose between a simplified version or learning more.
 
 [Code](AI%20content%20drag) | [Demo](https://x.com/mikelikesdesign/status/2032980860782391504)
+
+### Pinch Experiment
+
+Pinch Experiment explores pinching an article into an AI-generated summary. The page folds down as you pinch, moves through a fast space-like loading state, then opens into a concise overview.
+
+Shoutout to Arc Search's pinch to summarize feature for some of the inspiration.
+
+[Code](pinch%20experiment) | [Demo](https://x.com/mikelikesdesign/status/2021815768124690633)
