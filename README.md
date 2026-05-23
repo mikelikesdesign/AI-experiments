@@ -79,3 +79,9 @@ Pinch Experiment explores pinching an article into an AI-generated summary. The 
 Shoutout to Arc Search's pinch to summarize feature for some of the inspiration.
 
 [Code](pinch%20experiment) | [Demo](https://x.com/mikelikesdesign/status/2021815768124690633)
+
+### AI Fast Reading
+
+AI Fast Reading creates a reading view based on AI-generated content to help the user read faster.
+
+Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2011657345529676124)
