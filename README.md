@@ -54,7 +54,7 @@ Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/199419267112069
 
 ### Pinch Gestures
 
-This experiment remixes Pinch Text by using the front-facing camera to detect pinch gestures. It explores how AI can reshape writing to match the level of detail someone wants in the moment, moving text between a basic overview, detailed analysis, and advanced analysis through gesture detection.
+This experiment remixes [Pinch Text](pinch-text) by using the front-facing camera to detect pinch gestures. It explores how AI can reshape writing to match the level of detail someone wants in the moment, moving text between a basic overview, detailed analysis, and advanced analysis through gesture detection.
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1962192343387472129)
 
