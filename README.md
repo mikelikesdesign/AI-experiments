@@ -16,9 +16,11 @@ This experiment lets the user scroll down while reading to choose between a simp
 
 [Code](AI%20content%20drag) | [Demo](https://x.com/mikelikesdesign/status/2032980860782391504)
 
-### AI Drag Interaction
+### AI Nodes
 
 This experiment lets the user type a word or phrase to learn about it, then creates a node shape based on that word or phrase so the user can explore relevant topics.
+
+![AI Nodes](media/AI%20nodes.gif)
 
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1958629089910431854)
 
