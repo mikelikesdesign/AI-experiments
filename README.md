@@ -42,6 +42,8 @@ This experiment explores a different way for the user to change the LLM the chat
 
 This experiment watches the user's reaction while they read an answer. If the user looks confused, the AI displays a simpler version. If the user seems interested or pleased, it offers to show more details.
 
+![Chat Expressions](media/chat%20expressions.gif)
+
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/2010564041542860801)
 
 ### Content Ideas
