@@ -18,7 +18,7 @@ This experiment lets the user scroll down while reading to choose between a simp
 
 ### AI Nodes
 
-This experiment lets the user type a word or phrase to learn about it, then creates a node shape based on that word or phrase so the user can explore relevant topics.
+In this experiment the user types a word or phrase to learn about and then drags a connected node to learn about relevant topics.
 
 ![AI Nodes](media/AI%20nodes.gif)
 
