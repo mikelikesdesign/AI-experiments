@@ -124,4 +124,6 @@ This experiment explores how AI can reshape a message across tone and detail wit
 
 This experiment explores how AI can let the user rewrite a piece of text one word at a time. The user can press and hold any word so the rest of the text fades back while AI suggests synonyms, then tap one to swap it in.
 
+![Word Tap](media/word%20tap.gif)
+
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1835462175231795377)
