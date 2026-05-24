@@ -80,6 +80,8 @@ This experiment explores a chat history where pinching reveals a prompt navigato
 
 Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspiration: [post](https://x.com/raunofreiberg/status/2031794945896378820).
 
+![Pinch Prompts](pinch%20prompts/pinch%20prompts.gif)
+
 [Code](pinch%20prompts) | [Demo](https://x.com/mikelikesdesign/status/2045278395291087012)
 
 ### Pinch Text
