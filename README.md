@@ -90,6 +90,8 @@ Shoutout to [Rauno Freiberg](https://x.com/raunofreiberg) for some of the inspir
 
 This experiment explores how AI can reshape writing to match the level of detail someone wants in the moment. A pinch gesture moves the text between a basic overview, detailed analysis, and advanced analysis, turning reading depth into a direct tactile control.
 
+![Pinch Text](media/pinch%20text.gif)
+
 [Code](pinch-text) | [Demo](https://x.com/mikelikesdesign/status/1885506922302013919)
 
 ### Quick Camera
