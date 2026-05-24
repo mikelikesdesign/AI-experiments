@@ -72,6 +72,8 @@ Select any word or phrase, tap Rephrase, then drag the quadrant control to adjus
 
 For this demo, highlight the word "Prototyping" to see how this interaction works.
 
+![Content Ideas](content%20ideas/content%20ideas.gif)
+
 [Code](content%20ideas) | [Demo](https://x.com/mikelikesdesign/status/2048578683447988621)
 
 ### Pinch Prompts
