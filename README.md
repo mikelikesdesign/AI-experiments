@@ -94,6 +94,8 @@ This experiment explores how AI can reshape writing to match the level of detail
 
 This experiment offers a quick way to take a photo to send to the AI as context.
 
+![Quick Camera](media/quick%20camera.gif)
+
 Code (coming soon) | [Demo](https://x.com/mikelikesdesign/status/1994192671120691542)
 
 ### Reading Tracker
