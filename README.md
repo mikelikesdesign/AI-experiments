@@ -96,6 +96,14 @@ This experiment explores how AI can reshape writing to match the level of detail
 
 [Code](pinch-text) | [Demo](https://x.com/mikelikesdesign/status/1885506922302013919)
 
+### Prompt Scroll
+
+This experiment explores a chat history where holding the conversation reveals a prompt scrubber, letting the user skim previous prompts and jump back to the original exchange.
+
+![Prompt Scroll](prompt%20scroll/prompt%20scroll.gif)
+
+[Code](prompt%20scroll) | [Demo](https://x.com/mikelikesdesign/status/2059955623996068282)
+
 ### Quick Camera
 
 This experiment offers a quick way to take a photo to send to the AI as context.
