@@ -98,7 +98,7 @@ This experiment explores how AI can reshape writing to match the level of detail
 
 ### Prompt Scroll
 
-This experiment explores a chat history where holding the conversation reveals a prompt scrubber, letting the user skim previous prompts and jump back to the original exchange.
+This experiment explores a way to scrub and navigate between different prompts.
 
 ![Prompt Scroll](prompt%20scroll/prompt%20scroll.gif)
 
