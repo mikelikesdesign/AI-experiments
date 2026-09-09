@@ -1,3 +1,23 @@
 .DS_Store
 *.xcuserstate
 xcuserdata/
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+Secrets.xcconfig
+*.secrets.xcconfig
+*.p8
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+
+# Raw camera media can contain embedded location and device metadata.
+# Publish a metadata-stripped derivative instead; `git add -f` is an explicit override.
+*.[mM][oO][vV]
+*.[mM][pP]4
+*.[mM]4[vV]
+*.[hH][eE][iI][cC]
