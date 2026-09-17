@@ -122,6 +122,8 @@ This experiment explores how AI can provide small nudges of encouragement to hel
 
 This experiment lets the user scroll past a response to simplify it, learn more, or start a new chat.
 
+![Scroll Options](scroll%20options/scroll%20options.gif)
+
 [Code](scroll%20options) | [Demo](https://x.com/mikelikesdesign/status/2099150199054823565)
 
 ### Tap Explore
