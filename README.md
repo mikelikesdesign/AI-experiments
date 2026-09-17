@@ -118,6 +118,12 @@ This experiment explores how AI can provide small nudges of encouragement to hel
 
 [Code](reading%20tracker) | [Demo](https://x.com/mikelikesdesign/status/1861940569049800989)
 
+### Scroll Options
+
+This experiment lets the user pull past the end of a response to simplify it, learn more, or start a new chat.
+
+[Code](scroll%20options) | Demo (coming soon)
+
 ### Tap Explore
 
 This experiment lets the user hold to zoom in a space like interface while AI generates a topic in the background.
