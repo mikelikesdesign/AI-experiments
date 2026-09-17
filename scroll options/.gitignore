@@ -1,0 +1,26 @@
+# macOS metadata and personal Xcode state
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Generated build products
+build/
+DerivedData/
+.build/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# Local environment and signing material
+.env
+.env.*
+!.env.example
+*.local.xcconfig
+*.p12
+*.p8
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+*.provisionprofile
