@@ -1,0 +1,7 @@
+{
+  "name": "ai-overview",
+  "private": true,
+  "dependencies": {
+    "allo-font": "^1.0.0"
+  }
+}

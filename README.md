@@ -10,6 +10,14 @@ If you would like the version that runs on an LLM, reach out to me on X: [@mikel
 
 ## Experiments
 
+### AI Overview
+
+An interactive visualization on the AI tool calls and sources
+
+<img src="AI%20overview/AI%20overview.gif" alt="AI Overview" width="650">
+
+[Code](AI%20overview)
+
 ### AI Content Drag
 
 This experiment lets the user scroll down while reading to choose between a simplified version or learning more.
